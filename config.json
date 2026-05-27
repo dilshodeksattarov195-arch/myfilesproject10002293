@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervpdate",
+        "uuid": 18591644,
+        "checksum": "2eoht"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
